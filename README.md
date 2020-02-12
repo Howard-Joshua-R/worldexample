@@ -1,2 +1,2 @@
 # worldexample
-Pythong Web Scrapper Example
+Python Web Scrapper Example
